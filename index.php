@@ -52,7 +52,7 @@
                   <label class="form-check-label" for="credit">Credit card</label>
                 </div>
                 <div class="form-check">
-                  <input id="debit" name="radio" type="radio" class="form-check-input" value="debit">
+                  <input id="debit" name="radio" type="radio" class="form-check-input" value="Debit">
                   <label class="form-check-label" for="debit">Debit card</label>
                 </div>
                 <div class="form-check">
